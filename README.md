@@ -1,6 +1,6 @@
 # the36review.com
 
-This is the middleman app for the36review.
+This is the middleman app for the36review, found on GitHub at <https://github.com/the36review/the36review.com>.
 
 ## Setup
 
