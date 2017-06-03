@@ -17,3 +17,17 @@ middleman
 ```
 
 Then visit <http://localhost:4567>
+
+## Publishing
+
+Build the site:
+
+```sh
+rake build
+```
+
+Publish is to <http://the36review.github.io/the36review.com>:
+
+```sh
+rake publish
+```
